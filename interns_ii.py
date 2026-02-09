@@ -27,3 +27,4 @@ def fetch_quote():
 while True:
     fetch_quote()
     time.sleep(10)  # Ожидание 10 секунд перед следующим запросом
+    print("Testing branches in Git!")
